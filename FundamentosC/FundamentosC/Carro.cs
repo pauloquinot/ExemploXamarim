@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace FundamentosC
 {
-    class Program
+    class Carro
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
